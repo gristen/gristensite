@@ -27,10 +27,12 @@ section	{
 	font-family: 'Roboto', sans-serif;
 }
 
-
-header a {
-	color:#fff;
+a{
+	color: #000;
 }
+
+
+
 
 h1,h2,h3,h4,h5{
   margin: 0;
@@ -68,7 +70,8 @@ header .nav-item{
 }
 
 #nav_link{
-	transition: color .2s linear;
+	transition: color .1s linear;
+	color: #000;
 }
 
 #nav_link:hover{
@@ -78,13 +81,13 @@ header .nav-item{
 
 
 .Laptop{
-	    margin: 161px auto 0;
+	    margin: 217px auto 0;
 	    margin-left: 100px;
 }
 
 
 .title{
-	margin-top: 162px;
+	margin-top: 217px;
 	margin-bottom: 50px;
 	
 	
@@ -334,8 +337,6 @@ input:first-of-type{
 	text-align: center;
 	margin-top: 20px;
 }
-
-
 
 
 
